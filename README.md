@@ -12,6 +12,8 @@ Chapter 1 Arrays and Strings:
 
 1.4bis) Palindrome Permutation: Given a string, write a function to check if it is a permutation of a palindrome. Example: Tact Coa  -> True   (e.g. taco cat, atco cta, etc)
 
+1.5) One Away: There are 3 types of edits that can be performed on strings: insert a character, remove a character or replace a character. Given two strings, write a function to check if they are one dit (or zero edits) away. Example: pale, ple -> true    pales, pale  --> true    pale, bake --> False
+
  
  
 
